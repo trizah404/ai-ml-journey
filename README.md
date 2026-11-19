@@ -1,6 +1,5 @@
 # AI/ML Learning Journey 
 
-building , breaking, documenting everything so i don't forget.
 A documented journey from ML fundamentals to building and deploying, every folder represents a concept learned, every 
 notebook contains working code.
 
